@@ -1,0 +1,15 @@
+header{
+    background-color: black;
+}
+a {
+    text-transform: uppercase;
+    color: white;
+}
+main{
+    text-align: justify;
+}
+footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+}

@@ -1,0 +1,15 @@
+.isi{
+    width: 650px;
+    height: 600px;
+    top: 10px;
+    background: white;
+    text-align: right;
+    font-size: smaller;
+    float: right;
+    position: relative;
+    z-index: 2;
+}
+img{
+    position: absolute;
+    z-index: 1;
+}

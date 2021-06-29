@@ -1,0 +1,22 @@
+header {
+    height: 30px;
+    background-color: black;
+}
+ul {
+    display: flex;
+}
+a {
+    padding-right: 30px;
+    text-transform: capitalize;
+    color: white;
+}
+p {
+    column-count: 4;
+    column-rule: 2px solid black;
+    text-align: justify;
+}
+.footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+}

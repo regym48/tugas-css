@@ -1,0 +1,33 @@
+header {
+    height: 30px;
+    background-color: black;
+}
+ul {
+    display: flex;
+}
+a {
+    padding-right: 30px;
+    text-transform: capitalize;
+    color: white;
+}
+body{
+    background-color: aqua;
+}
+.slider-img{
+    margin: 0 auto;
+}
+.image{
+    height: 500px;
+    float: left;
+}
+p {
+    column-count: 4;
+    column-fill: balance;
+    column-rule: 2px solid black;
+    text-align: justify;
+}
+.footer{
+    background-color: black;
+    text-align: center;
+    color: white;
+}
